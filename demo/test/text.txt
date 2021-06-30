@@ -1,0 +1,2 @@
+Hello Node JS in text file!
+Hello again!!
